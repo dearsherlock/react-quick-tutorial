@@ -37,6 +37,7 @@ const {
 class TodoApp extends React.Component {
   render() {
     // 2. 組合元件的觀念，與架構 HTML 元素是一樣的
+    //    在render中，會去抓與標籤一樣名稱的物件
     return (
       <div>
         <TodoHeader />
