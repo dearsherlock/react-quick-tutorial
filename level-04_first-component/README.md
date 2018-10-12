@@ -158,6 +158,7 @@ andy.speak(); // My name is Andy Lin
 ###### 1. 使用方式
 
 ```js
+//宣告state是一個有兩參數的類別
 const state = {
   value1: 'value1',
   value2: 'value2'
