@@ -250,7 +250,7 @@ const user = { firstName, lastName, ...others };
 ###### 2. 參考連結
 
 1. [Object Rest/Spread Properties for ECMAScript](https://github.com/sebmarkbage/ecmascript-rest-spread)
-
+2. [...(Spread Properties)的用法](https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part4/rest_spread.html)
 
 ## :rocket:
 
